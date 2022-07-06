@@ -8,3 +8,6 @@ Files 3D Walk V22.ipynb and 3D Walk V22.ipynb contain code. V22 is the most rece
 The four csv files are provided as an example of position and binding/unbinding probability information that is saved by the simulation at every time step. 
 
 output.mp4 is a video demonstrating an implementation of the simulation. Particles of two different classes are colored red and purple. Green points represent bound pairs of particles, one from each class.
+
+
+![grab-landing-page](https://github.com/andrew-bortvin/MJ_rotation_project/blob/main/particles.gif)
